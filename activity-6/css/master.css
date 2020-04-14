@@ -1,0 +1,20 @@
+body {
+    max-width: 500px;
+    margin: 0 auto;
+    font-family: 'Oswald', sans-serif;
+}
+
+.messages {
+    margin-bottom: 20px;
+}
+
+.out-message {
+    padding: 5px;
+    background-color: aliceblue;
+}
+
+.in-message {
+    padding: 5px;
+    background-color: black;
+    color: blanchedalmond;
+}
